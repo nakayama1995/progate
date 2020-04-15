@@ -194,13 +194,8 @@ footer {
   padding-bottom: 20px;
 }
 
-.menu-icon{
+.fa.menu-icon{
   display: none;
-  color: white;
-  float: right;
-  margin: 21px 0;
-  font-size: 25px;
-
 }
 
 .clear{
